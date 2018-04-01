@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860469772821",
+    "firebase_url": "https://resturaall.firebaseio.com",
+    "project_id": "resturaall",
+    "storage_bucket": "resturaall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860469772821:android:7213da81287dcdc5",
+        "android_client_info": {
+          "package_name": "com.nooblabs.resturaall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860469772821-urqc3a7liovu820rtpi10nu7pe952j2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nooblabs.resturaall",
+            "certificate_hash": "c17a466839d2e7032107e04ef63b5d549ae0bc7e"
+          }
+        },
+        {
+          "client_id": "860469772821-u7pma0nrdmjsvf52cc21d67koka9l81u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJbLPOx4HTPAfRPR9X1d9reSHHO50hzBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860469772821-u7pma0nrdmjsvf52cc21d67koka9l81u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
