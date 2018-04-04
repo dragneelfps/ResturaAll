@@ -6,7 +6,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
-        android:text="Nearby Restaurants"
+        android:text="Show Restaurants"
         android:textSize="24sp"/>
     <android.support.v7.widget.RecyclerView
         android:id="@+id/nearby_restaurant_list"
